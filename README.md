@@ -5,18 +5,20 @@
 #### 613-XXX-XXXX \| alexmi3.14@gmail.com \| [linkedin.com/in/alexmh](https://linkedin.com/in/alexmh)
 
 ### Objective
+___
 
 Stuff
 
 ### Skills
+___
 
 Table
 
 ### Work Experience
+___
 
-#### Younility Inc.                                                                                                 Oct 2016 - Oct 2018
-
-Senior Software Test Developer \| Software Developer
+#### __Younility Inc.__                                                                                              Oct 2016 - Oct 2018
+**Senior Software Test Developer \| Software Developer**
 - Identify potential risks with new software features and develop testing strategies during that time
 - Reduce time to release by introducing new tools into testing and development workflow
 - Develop and maintain automated tests to run against company products 
@@ -25,10 +27,8 @@ Senior Software Test Developer \| Software Developer
 - Review product documentation for quality control issues and discrepancies against developer documentation
 
 
-#### Gemalto (formerly SafeNet)                                                                                     Dec 2014 - Oct 2016
-
-Test Engineer
-
+#### __Gemalto__                                                                                                     Dec 2014 - Oct 2016
+**Test Engineer**
 - Integrate into various product teams as a test automation lead in order to ensure software quality and reduce manual testing efforts via Agile Development methodology
 - Perform code reviews and provide feedback to team members ensuring code quality and to reveal any potential underlying issues
 - Design and automate test cases and test plans for multiple products over a wide range of platforms
@@ -39,10 +39,8 @@ Test Engineer
 - Setup and configure various operating systems for use with Hardware Security Modules (HSMs)
 - Manage large pools of computer resources for distributed testing
 
-#### 360pi                                                                                                          Apr 2014 - Oct 2014
-
-Automation Developer
-
+#### __360pi__                                                                                                       Apr 2014 - Oct 2014
+**Automation Developer**
 - Developed software to help centralize tracking of code metrics and show areas of risk
 - Investigated and implemented test case automation for web and mobile product testing
 - Created and improved existing tests for quality verification as well as regression testing of new and existing features
@@ -54,7 +52,7 @@ Automation Developer
 - Worked in an Agile software environment and communicated progress
 
 ### Education
-
+___
 #### Carleton University                                                                                                    2009 - 2013
 
 Bachelor in Computer Science with a minor in Psychology
